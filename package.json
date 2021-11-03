@@ -15,11 +15,11 @@
     "lib"
   ],
   "dependencies": {
+    "@mapbox/jsonlint-lines-primitives": "https://github.com/mapbox/jsonlint",
     "concat-stream": "^1.6.1",
-    "jsonlint-lines": "1.7.1",
     "minimist": "^1.2.5",
     "vfile": "^4.0.0",
-    "vfile-reporter": "^5.1.1"
+    "vfile-reporter": "^7.0.2"
   },
   "devDependencies": {
     "benchmark": "^2.1.0",
